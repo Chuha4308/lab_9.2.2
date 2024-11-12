@@ -1,0 +1,22 @@
+﻿  UnitTest_9.2.2.cpp
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244: 'return': conversion from 'T' to 'T', possible loss of data
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         with
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         [
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:             T=double
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         ]
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         and
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         [
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:             T=int
+C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18): warning C4244:         ]
+  (compiling source file '/UnitTest_9.2.2.cpp')
+      C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(21,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Admin\source\repos\Lab_9.2.2\Lab_9.2.2\9.2.2.cpp(37,44):
+          see reference to function template instantiation 'T Sum<int,double,float>(T,double,float)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+     Creating library C:\Users\Admin\source\repos\Lab_9.2.2\x64\Debug\UnitTest_9.2.2.lib and object C:\Users\Admin\source\repos\Lab_9.2.2\x64\Debug\UnitTest_9.2.2.exp
+  UnitTest_9.2.2.vcxproj -> C:\Users\Admin\source\repos\Lab_9.2.2\x64\Debug\UnitTest_9.2.2.dll
